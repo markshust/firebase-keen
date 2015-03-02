@@ -1,0 +1,30 @@
+body {
+    font-family: Helvetica, "Helvetica Neue", Arial, sans-serif;
+}
+
+h1,
+h2 {
+    text-align: center;
+}
+
+#avgCostByGender {
+    margin: 0 auto;
+    width: 960px;
+    height: 320px;
+}
+
+.key {
+    width: 480px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.female {
+    color: #ff7f0e;
+    float: left;
+}
+
+.male {
+    color: #1f77b4;
+    float: right;
+}
