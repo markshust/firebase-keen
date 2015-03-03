@@ -33,4 +33,4 @@ For more info, please read the complete tutorial at https://www.airpair.com/fire
 
 WTFPL - Do what you want with it and have fun. If you want to contibute any other cool ideas for integrating Keen.io with Firebase, let me know so that I can post back to it here!
 
-If you like this script and are feeling philanthropic, please donate funds to [My Alzheimer's Walk Page for Team Shust](http://act.alz.org/goto/markoshust). It's a fantastic organization and your donation will go a long way in finding a cure for a horrible disease.
+If you like this script and are feeling philanthropic, please donate funds to [My Alzheimer's Walk Page for Team Shust](http://shust.com). It's a fantastic organization and your donation will go a long way in finding a cure for a horrible disease.
